@@ -95,9 +95,7 @@ npm run dev
 
 ![Landing Page](<Notes Chatbot Demo 1.png>) 
 
-![File Upload](<Notes Chatbot Demo 2.png>) 
-
-![Chat Start](<Notes Chatbot Demo 3.png>) 
+![File Upload](<Notes Chatbot Demo 2.png>)  
 
 ![alt text](<Notes Chatbot Demo 4.png>)
 
